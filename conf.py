@@ -27,8 +27,8 @@ version_notes = f'''
 <h1>🎁🎁 Reeelease notes (`{current_version}`)</h1> 
 <h2>Changes:</h2>{changes}
 <h2>Metadata:</h2>
-This version -------- {current_version}
-Previous version ---- {previous_version}
+This version --------- {current_version}
+Previous version ----- {previous_version}
 '''
 
 print(version_notes)
